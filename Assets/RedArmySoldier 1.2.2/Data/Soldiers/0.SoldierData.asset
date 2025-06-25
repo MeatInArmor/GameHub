@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c01aa1e42f64044bf45f1959cb1cae, type: 3}
+  m_Name: 0.SoldierData
+  m_EditorClassIdentifier: 
+  SoliderType: "\u041F\u0435\u0445\u043E\u0442\u0438\u043D\u0435\u0446"
+  soliderKitIndex: 0
+  uniformQuantity: 5
+  uniformQueue: 0200000004000000030000000500000007000000
+  uniformChanging:
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 2, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  equipmentQuantity: 5
+  indexesClose: 08000000
+  soldierMusic: {fileID: 8300000, guid: 1603f324fc772984cb0dbc0a79a9111f, type: 3}
+  soldierColor: '#d0092b'
+  background: {fileID: 21300000, guid: cde08bfeb323a18458d412e7f510949e, type: 3}
+  emblem: {fileID: 21300000, guid: 7573244c44878f146922b51982c996c7, type: 3}
+  mainCloth:
+  - {fileID: 21300000, guid: 9c0726ced372e254a8062e78c1eb6f33, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 7eafda95b13d85748898e99cd89619fd, type: 3}
+  - {fileID: 21300000, guid: 8571ec34a722b824fbe2ea6c50262949, type: 3}
+  - {fileID: 21300000, guid: 5cdea9144ff5c1c45836e458dcc20bae, type: 3}
+  - {fileID: 21300000, guid: 0f389c2113acf69409698fac9556a807, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: c9dcda931a572eb459d41bcefe372b8c, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: c658e45832159254a98ee5552ae18b03, type: 3}
+  - {fileID: 21300000, guid: b8dee4e795147a94b8471a63bfacf218, type: 3}
+  - {fileID: 21300000, guid: cf7773b2834c61746a3fb21883a0d036, type: 3}
+  - {fileID: 21300000, guid: bcf0389f24e8c87499f4e5ad4a3b1baf, type: 3}
+  - {fileID: 21300000, guid: 469d67687a42a6c47a7253dc45b2737a, type: 3}
+  - {fileID: 0}
+  subCloth:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 3abf4fb459b1ae84a86fa076f48f6f1a, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  pajama:
+  - {fileID: 21300000, guid: 9c0726ced372e254a8062e78c1eb6f33, type: 3}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 80252917f53970b459387fcb8c6663f7, type: 3}
+  - {fileID: 21300000, guid: 07220a76484fd3448a3058927282d7dc, type: 3}
+  winPose: {fileID: 21300000, guid: bc68a8cf0745a2a4b938f4ca16652e95, type: 3}

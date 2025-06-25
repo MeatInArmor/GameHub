@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0661273ddd507814b9bac5360142f094, type: 3}
+  m_Name: "2.\u041F\u0430\u0440\u0430\u0448\u044E\u0442"
+  m_EditorClassIdentifier: 
+  name_: "\u041F\u0430\u0440\u0430\u0448\u044E\u0442"
+  kitsIndex: 02000000
+  itemType: equipment
+  sprite: {fileID: 21300000, guid: 326abfec40dc1124a978fbff0b4e624f, type: 3}
+  queue: 10
+  sounds:
+  - {fileID: 8300000, guid: 68df698f51302fe4cb101a0afb46f254, type: 3}
